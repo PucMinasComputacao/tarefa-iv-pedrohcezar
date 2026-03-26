@@ -13,4 +13,4 @@ Pedro Henrique Nascimento Cézar
  "Playdex" é um site que visa conectar empresários, clubes e jogadores para facilitar a transferência de jogadores de futebol. O processo é muito enxuto e pode ser simplificado com um site, como o playdex, que oferecerá uma lista de alvos, histórico, valor movimentado... 
 
 /*Print da home-page criada para o projeto:*/ 
-"C:\Users\phnce\OneDrive\Documentos\PUC\(439201) DIW LABORATÓRIO\PROJETOS\SEMANA 4\tarefa-iv-pedrohcezar\HOMEPAGE.png"
+"HOMEPAGE.png"
